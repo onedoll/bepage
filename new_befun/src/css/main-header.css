@@ -1,0 +1,58 @@
+.main-header {
+    width: 100%;
+    height: 6.68em;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    }
+
+.main-logimg {
+    display: flex;
+    align-items: center;
+    margin-left: 3.13em;
+}
+
+.main-logimg img {
+    width: 8.90em;
+    height: 6.68em;
+}
+
+.header-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25.00em;
+    font-weight: bold;
+}
+
+.maintext-sub2 {
+    height: 1.56em;
+    font-size: 1.06em;
+    color: black;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.25em;
+}
+
+.maintext-sub2:hover {
+    cursor: pointer;
+    color: green;
+}
+
+
+
+.changelan{
+    margin-left: 14.38em;
+}
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    background-color: white; 
+    
+}

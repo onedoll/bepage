@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    
+
+}
+
+.header {
+    width: 100%;
+    height: 6.25em;
+    background-color: white;
+
+    margin-bottom: 1.25em;
+}
+
+.main {
+    float: left;
+    width: 100%;
+    height: 43.75em;
+    background-color: #efefef;
+    color: black;
+    margin-right: 5%;
+    margin-bottom: 3.125em;
+}
+
+.webefun {
+    width: 100%;
+    height: 100%;
+    background-color: #efefef;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+}

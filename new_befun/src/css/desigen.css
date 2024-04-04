@@ -1,0 +1,48 @@
+.desigentext {
+    width: 100%;
+    height: 6.25em;
+    background-color: #efefef;
+    
+}
+
+.desigentext-1 {
+    font-size: 2.50em;
+    font-weight: bold;
+}
+
+.alldesigen {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.desigen-item {
+    width: 23.06em;
+    height: 40.31em;
+    border-radius: 1.88em;
+    background-color: white;
+    margin: 0 0.63em;
+    overflow: hidden;
+}
+
+.desigen-item>img {
+    margin-top: 1.88em;
+}
+
+
+
+.desigenmain {
+    background-color: white;
+}
+
+.desigentitle {
+    font-size: 2.50em;
+    font-weight: bold;
+    margin-top: 1.56em;
+}
+
+.desigentext-2 {
+    font-size: 1.56em;
+    margin-top: 2.81em;
+}

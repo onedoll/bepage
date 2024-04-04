@@ -1,0 +1,39 @@
+.webefun {
+    margin-bottom: 50px;
+    height: 48.00em;
+}
+
+.img-1>img {
+    width: 48.00em;
+    height: 48.00em;
+    justify-content: center;
+
+}
+
+.img-2 {
+    display: flex;
+    margin-top: 1.88em;
+    cursor: pointer;
+}
+
+
+.wetext {
+    margin-top: 12.50em;
+    width: 45.31em;
+    height: 6.36em;
+    margin-right: 8.13em;
+}
+
+.wetext-1 {
+    text-align: left;
+    font-size: 2.50em;
+    font-weight: bold;
+
+}
+
+
+.wetext-2 {
+    margin-top: 1.25em;
+    text-align: left;
+    font-size: 1.06em;
+}

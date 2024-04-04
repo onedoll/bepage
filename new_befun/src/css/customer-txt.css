@@ -1,0 +1,64 @@
+.customer-text {
+    width: 100%;
+    height: 6.25em;
+    background-color: #efefef;
+    margin: 0%;
+
+}
+
+.customer-sub1 {
+    font-size: 2.50em;
+    font-weight: bold;
+}
+
+.container-1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #efefef;
+}
+
+.album {
+    width: 118.94em;
+    height: 35.00empx;
+    overflow: hidden;
+}
+
+.images {
+    position: relative;
+    display: flex;
+    width: 59.38em;
+    height: 34.38em;
+    justify-content: space-between;
+    transition: transform 0.5s ease;
+    margin-left: 1.88em;
+}
+
+button,
+button:active,
+button:focus {
+    width: 11.25em;
+    height: 1.56em;
+    background-color: #efefef;
+    color: black;
+}
+
+button:disabled {
+    background-color: #efefef;
+    color: black;
+}
+
+.previous {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+
+.next {
+    position: absolute;
+    right: 0;
+    top: 40%;
+    transform: translateY(-50%);
+}

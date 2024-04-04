@@ -1,0 +1,61 @@
+.main-email {
+    width: 100%;
+    height: 30.00em;
+    background-color: #98b099;
+    display: flex;
+    margin-bottom: 3.13em;
+}
+
+.email-img>img {
+    width: 53.13em;
+}
+
+.email-text {
+    height: 5.00em;
+    text-align: left;
+    margin-left: 15.63em;
+    margin-top: 6.25em;
+}
+
+.email-sub1 {
+    font-size: 1.56em;
+    font-weight: bold;
+    width: 21.25em;
+
+
+}
+
+.email-sub2 {
+    width: 34.38em;
+    font-size: 1.25em;
+}
+
+.email-sub3 {
+    font-size: 0.94em;
+}
+
+.emailbox label {
+    display: inline-block;
+    vertical-align: top;
+    ;
+}
+
+.emailbox input[type="email"] {
+    width: calc(100%-7.50em);
+    box-sizing: border-box;
+    padding: 0.63em;
+    vertical-align: top;
+}
+
+.email-button1 {
+    background-color: #4cb350;
+    color: white;
+    text-align: center;
+    padding: 1.25em 3.00em;
+    border: none;
+    border-radius: 0.31em;
+    cursor: pointer;
+    margin-left: -0.31px;
+    line-height: 0em;   
+    font-size: 0.94em;
+}
